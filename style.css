@@ -1,0 +1,49 @@
+body {
+	background-image: url(Assets/Background.jpg); 
+	font-family: Calibri, Arial, san-serif; 
+}
+
+a {
+	color: black; 
+}
+
+h1, h2, h3 {
+	margin: 0; 
+}
+
+#container {
+	background-color: rgb(238,113,37); 
+	width: 800px; 
+	margin-left: auto; 
+	margin-right: auto; 
+}
+
+#header {
+	background-color: green; 
+	color : white; 
+	text-align: center; 
+	padding: 20px; 
+}
+
+#content {
+	
+}
+
+
+
+
+#main {
+	padding: 5px;
+	width: 750px; 
+	background-color: rgb(238,113,37); 
+}
+
+#footer {
+	clear: both;
+	padding: 10px; 
+	background-color: #000000; 
+	color: white; 
+	text-align: center; 
+}
+	
+	

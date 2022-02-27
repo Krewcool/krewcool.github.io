@@ -23,6 +23,7 @@ h1, h2, h3 {
 	color : white; 
 	text-align: center; 
 	padding: 20px; 
+	width: 950px;
 }
 
 #content {
@@ -44,6 +45,7 @@ h1, h2, h3 {
 	background-color: #000000; 
 	color: white; 
 	text-align: center; 
+	width: 950px;
 }
 	
 	

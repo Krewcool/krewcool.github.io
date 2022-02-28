@@ -22,7 +22,7 @@ h1, h2, h3 {
 	background-color: green; 
 	color : white; 
 	text-align: center; 
-	padding: 0px; 
+	padding: 10px; 
 	width: 950px;
 }
 
@@ -34,14 +34,14 @@ h1, h2, h3 {
 
 
 #main {
-	padding: 1px;
+	padding: 10px;
 	width: 950px; 
 	background-color: rgb(238,113,37); 
 }
 
 #footer {
 	clear: both;
-	padding: 0px; 
+	padding: 10px; 
 	background-color: #000000; 
 	color: white; 
 	text-align: center; 
@@ -50,7 +50,7 @@ h1, h2, h3 {
 
 
 .buttonClass {
-  font-size:22px;
+  font-size:18px;
   font-family:Arial;
   width:200px;
   height:100px;

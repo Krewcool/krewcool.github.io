@@ -23,7 +23,7 @@ h1, h2, h3 {
 	color : white; 
 	text-align: center; 
 	padding: 10px; 
-	width: 950px;
+	width: 850px;
 }
 
 #content {
@@ -35,7 +35,7 @@ h1, h2, h3 {
 
 #main {
 	padding: 10px;
-	width: 950px; 
+	width: 850px; 
 	background-color: rgb(238,113,37); 
 }
 
@@ -45,7 +45,7 @@ h1, h2, h3 {
 	background-color: #000000; 
 	color: white; 
 	text-align: center; 
-	width: 950px;
+	width: 850px;
 }
 
 

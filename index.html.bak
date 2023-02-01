@@ -7,10 +7,10 @@
   <meta name="generator" content="Mobirise v5.7.8, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/logo-121x121.jpg" type="image/x-icon">
-  <meta name="description" content="">
+  <meta name="description" content="This is the official website for The Gaming Machine. Here I will post special content, including free ways to gain subscribers on major social platforms.">
   
   
-  <title>Videos</title>
+  <title>TGM</title>
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
@@ -28,7 +28,7 @@
 </head>
 <body>
   
-  <section data-bs-version="5.1" class="menu cid-s48OLK6784" once="menu" id="menu1-m">
+  <section data-bs-version="5.1" class="menu cid-s48OLK6784" once="menu" id="menu1-h">
     
     <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
         <div class="container">
@@ -58,40 +58,38 @@
 
 </section>
 
-<section data-bs-version="5.1" class="header2 cid-tuEHLlXJqe mbr-fullscreen mbr-parallax-background" id="header2-w">
+<section data-bs-version="5.1" class="header1 cid-s48MCQYojq mbr-fullscreen mbr-parallax-background" id="header1-f">
 
     
 
-    
-    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(255, 255, 255);"></div>
+    <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(255, 255, 255);"></div>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-lg-7">
-                <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>Link below</strong></h1>
+    <div class="align-center container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-8">
+                <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>Welcome to my New Website</strong></h1>
                 
-                <p class="mbr-text mbr-fonts-style display-7">Scroll down and click the button to view the channel!</p>
+                <p class="mbr-text mbr-fonts-style display-7">Welcome to my new website, this is a complete redesign.<br>Scroll down to learn more.&nbsp;</p>
                 
             </div>
         </div>
     </div>
 </section>
 
-<section class="mbr-section mbr-section--no-padding cid-tsG4CdDBjF" id="witsec-html-block-u">
-
-
-
-
-
-<!-- Place your own code below -->
-<div class="container">
-	<a href="https://www.youtube.com/channel/UCPavu_MiWJZ9rhFWf7_SaJw" target="_blank"><img src="assets/images/mbr-380x265.png" class="mx-auto d-block" title="Use a Code Editor to edit the HTML and CSS of this block" alt=""></a>
-</div>
-<!-- Place your own code above -->
-
+<section data-bs-version="5.1" class="content1 cid-s48udlf8KU" id="content1-8">
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="title col-12 col-md-9">
+                <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-2"><strong>About Me</strong></h3>
+                <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-7"><p>&nbsp;&nbsp;&nbsp;&nbsp;I started this channel on December 26 2018 (the day after Christmas) by Flying a drone I had got the previous day. The next video I posted was titled "Can you really trust Google searches? Try not to laugh." It was a simple video and was the first video I had ever edited on the channel. Since then I have posted over 130 different videos most of which have gotten few views, but a couple videos I posted went vial gaining me over 2,000 subscribers. I have deleted all of these videos and I am now focusing on YouTube shorts about technology.</p><br><p>I will do the occasional livestream, but as of now I will be focusing mainly on YouTube shorts. The goal of my channel is to bring entertainment and to teach about technology.&nbsp;</p></h4>
+                
+            </div>
+        </div>
+    </div>
 </section>
 
-<section data-bs-version="5.1" class="footer7 cid-tsFWR1jKuj" once="footers" id="footer7-l">
+<section data-bs-version="5.1" class="footer7 cid-tsFWR1jKuj" once="footers" id="footer7-k">
 
     
 
@@ -105,7 +103,7 @@
             </div>
         </div>
     </div>
-<script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/parallax/jarallax.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/theme/js/script.js"></script>  
+</section><section class="display-7" style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;"><a href="https://mobiri.se/2931678" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img alt="" style="height: 4rem;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><p style="margin: 0;text-align: center;" class="display-7">Made with &#8204;</p><a style="z-index:1" href="https://mobirise.com/builder/easiest-website-builder.html">Easy Website Builder</a></section><script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/parallax/jarallax.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/theme/js/script.js"></script>  
   
   
 </body>

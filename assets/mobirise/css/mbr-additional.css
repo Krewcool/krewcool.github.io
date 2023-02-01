@@ -1059,6 +1059,21 @@ a {
     left: -1rem;
   }
 }
+.cid-tuEHLlXJqe {
+  background-image: url("../../../assets/images/background7.jpg");
+}
+.cid-tuEHLlXJqe .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tuEHLlXJqe .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-tsG4CdDBjF {
   padding-top: 90px;
   padding-bottom: 90px;
